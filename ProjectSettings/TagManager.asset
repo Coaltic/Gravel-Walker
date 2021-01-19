@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Killbox
+  - Checkpoint1
+  - Checkpoint2
+  - Checkpoint3
   layers:
   - Default
   - TransparentFX
