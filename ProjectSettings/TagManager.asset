@@ -8,6 +8,8 @@ TagManager:
   - Checkpoint1
   - Checkpoint2
   - Checkpoint3
+  - Teleporter
+  - Checkpoint
   layers:
   - Default
   - TransparentFX
